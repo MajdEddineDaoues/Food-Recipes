@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Here some views for the application
+![Front](https://github.com/MajdEddineDaoues/Food-Recipes/assets/133638016/bf43fcd9-bbd6-4d89-b3d9-355ae58c1d6c)
+![listArea](https://github.com/MajdEddineDaoues/Food-Recipes/assets/133638016/182f6086-c061-4591-b10e-abfb49761eb6)
+![listDishesType](https://github.com/MajdEddineDaoues/Food-Recipes/assets/133638016/c9bf9811-9958-4846-978c-eb79fe63fa3e)
+![disheDetail](https://github.com/MajdEddineDaoues/Food-Recipes/assets/133638016/795ac0cd-3ed3-498b-8668-43d2c3880f07)
+
+
 ## Getting Started
 
 First, run the development server:
